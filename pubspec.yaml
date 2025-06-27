@@ -15,8 +15,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  crypto: ^3.0.3
-  aws_client: ^0.4.0
+  crypto: ^3.0.6
+  aws_client: ^0.7.0
   aws_kinesis_video_signaling_api: ^2.0.0
 
 dev_dependencies:
